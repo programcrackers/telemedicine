@@ -44,3 +44,4 @@ while True:
     response = bot.get_response(user_input)
     print(f"Bot: {response}")
     speak(str(response))
+#the end
